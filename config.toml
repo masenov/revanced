@@ -50,7 +50,6 @@ build-mode = "both"                                                   # 'both', 
 excluded-patches = "hide-views-stats"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
-version = "auto"
 
 [Twitch]
 enabled = false
