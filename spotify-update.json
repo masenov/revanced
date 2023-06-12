@@ -1,6 +1,6 @@
 {
-  "version": "v8.8.38.444",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/masenov/revanced/releases/download/8/spotify-revanced-magisk-v8.8.38.444-all.zip",
+  "version": "v8.8.40.470",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/masenov/revanced/releases/download/9/spotify-revanced-magisk-v8.8.40.470-all.zip",
   "changelog": "https://raw.githubusercontent.com/masenov/revanced/update/build.md"
 }
