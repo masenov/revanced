@@ -1,6 +1,6 @@
 {
-  "version": "v9.93.0-release.1",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/masenov/revanced/releases/download/10/twitter-revanced-magisk-v9.93.0-release.1-all.zip",
+  "version": "v9.94.0-release.0",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/masenov/revanced/releases/download/11/twitter-revanced-magisk-v9.94.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/masenov/revanced/update/build.md"
 }

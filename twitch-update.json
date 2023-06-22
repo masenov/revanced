@@ -1,6 +1,6 @@
 {
-  "version": "v14.6.1",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/masenov/revanced/releases/download/10/twitch-revanced-magisk-v14.6.1-all.zip",
+  "version": "v15.4.1",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/masenov/revanced/releases/download/11/twitch-revanced-magisk-v15.4.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/masenov/revanced/update/build.md"
 }
